@@ -10,7 +10,8 @@ const AppProvider = (props) => {
   const [firstFour, setFirstFour] = useState({ products: [] });
   const [errorMessage, setErrorMessage] = useState("");
 
-  const URL = "http://localhost:3000/data.json";
+  // const URL = "http://localhost:3000/data.json";
+  const URL = "https://feradesign.netlify.app/data.json";
 
   const getData = async () => {
     fetch(URL)
