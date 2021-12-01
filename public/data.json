@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "Niebieski sweter",
+      "id": 1,
+      "description": "Stylowo wygląda i jest cieplutki",
+      "price": 800,
+      "forDog": "chart",
+      "model": "Freddie",
+      "modelId": 1,
+      "image": "/images/ubranko_1.jpeg",
+      "added": "2021-11-23",
+      "collection": "Winter 2021"
+    },
+    {
+      "name": "Kurteczka w kwiaty",
+      "id": 2,
+      "description": "Stylowo wygląda i jest cieplutka",
+      "price": 1200,
+      "forDog": "chart",
+      "model": "Freddie",
+      "modelId": 1,
+      "image": "/images/ubranko_2.jpeg",
+      "added": "2021-10-19",
+      "collection": "Fall 2021"
+    },
+    {
+      "name": "Kokardka",
+      "id": 3,
+      "description":
+      "Wykonana z najbardziej ekskluzywnej i niedostępnej nici. Dodaje psu dużo prestiżu i słodkości",
+      "price": 400,
+      "forDog": "chart",
+      "model": "Freddie",
+      "modelId": 1,
+      "image": "/images/ubranko_3.jpeg",
+      "added": "2021-11-01",
+      "collection": "Winter 2021"
+    },
+    {
+      "name": "Egzotyczne legowisko",
+      "id": 4,
+      "description":
+      "Ultra wygodne i ultra eleganckie. Pieska trzeba siłą zaciągać na spacer.",
+      "price": 2100,
+      "forDog": "dowolny",
+      "model": "Freddie",
+      "modelId": 1,
+      "image": "/images/legowisko_1.jpeg",
+      "added": "2021-11-23",
+      "collection": "Winter 2021"
+    }
+  ]
+}
